@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Data science project**
 
-- 👯 I’m looking to collaborate on **python,**
+- 👯 I’m looking to collaborate on **python**
 
 - 📫 How to reach me **ajeebamh25@gmail.com**
 
